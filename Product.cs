@@ -22,7 +22,7 @@ namespace File_IO__Json_Serialize_DeSerialize
         public decimal CostPrice { get; set; }
         public decimal SalePrice
         {
-            get => _count; 
+            get => _salePrice; 
             set
             {
                 if (value >= CostPrice)
