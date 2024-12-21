@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\CodeAc\File IO, Json Serialize_DeSerialize\bin\Debug\net6.0\File IO, Json Serialize_DeSerialize.exe
+C:\Users\Admin\Desktop\CodeAc\File IO, Json Serialize_DeSerialize\bin\Debug\net6.0\File IO, Json Serialize_DeSerialize.deps.json
+C:\Users\Admin\Desktop\CodeAc\File IO, Json Serialize_DeSerialize\bin\Debug\net6.0\File IO, Json Serialize_DeSerialize.runtimeconfig.json
+C:\Users\Admin\Desktop\CodeAc\File IO, Json Serialize_DeSerialize\bin\Debug\net6.0\File IO, Json Serialize_DeSerialize.dll
+C:\Users\Admin\Desktop\CodeAc\File IO, Json Serialize_DeSerialize\bin\Debug\net6.0\File IO, Json Serialize_DeSerialize.pdb
+C:\Users\Admin\Desktop\CodeAc\File IO, Json Serialize_DeSerialize\obj\Debug\net6.0\File IO, Json Serialize_DeSerialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CodeAc\File IO, Json Serialize_DeSerialize\obj\Debug\net6.0\File IO, Json Serialize_DeSerialize.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CodeAc\File IO, Json Serialize_DeSerialize\obj\Debug\net6.0\File IO, Json Serialize_DeSerialize.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CodeAc\File IO, Json Serialize_DeSerialize\obj\Debug\net6.0\File IO, Json Serialize_DeSerialize.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CodeAc\File IO, Json Serialize_DeSerialize\obj\Debug\net6.0\File IO, Json Serialize_DeSerialize.dll
+C:\Users\Admin\Desktop\CodeAc\File IO, Json Serialize_DeSerialize\obj\Debug\net6.0\refint\File IO, Json Serialize_DeSerialize.dll
+C:\Users\Admin\Desktop\CodeAc\File IO, Json Serialize_DeSerialize\obj\Debug\net6.0\File IO, Json Serialize_DeSerialize.pdb
+C:\Users\Admin\Desktop\CodeAc\File IO, Json Serialize_DeSerialize\obj\Debug\net6.0\File IO, Json Serialize_DeSerialize.genruntimeconfig.cache
+C:\Users\Admin\Desktop\CodeAc\File IO, Json Serialize_DeSerialize\obj\Debug\net6.0\ref\File IO, Json Serialize_DeSerialize.dll
